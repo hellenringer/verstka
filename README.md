@@ -1,3 +1,1 @@
-
-
-![alt text] (https://sun9-23.userapi.com/c7004/v7004642/6eda2/lr_BU_Ai_-A.jpg)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Jaaf5LBTesxjSvVy3OyvFki6tR0lAWG2dU-tWrvNsDRZKOQWcg)
