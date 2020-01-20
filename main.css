@@ -1,0 +1,148 @@
+.navbar{
+ background:#19061f;
+}
+.nav-link , .navbar-brand{
+ color: #e2d5e3;
+ cursor: pointer;
+}
+.navbar-brand:hover{
+color: #f70c18;
+	}
+.nav-link{
+ margin-right: 1em !important;
+}
+.nav-link:hover{
+ background: #700f76;
+ color: #f70c18;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.navbar-toggler{
+  background:#f70c18 !important;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.header{
+ background-image: url('images/shapka.jpg') ;
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+}
+.overlay{
+ position: absolute;
+ min-height: 100%;
+ min-width: 100%;
+ left: 0;
+ top: 0;
+ background: rgba(0, 0, 0, 0.79);
+}
+.description{
+    position: absolute;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
+
+}
+.description h1{
+ color:#b40009 ;
+}
+.description p{
+ color:#d2020d;
+ font-size: 30px;
+ width: 50%;
+ line-height: 1.5;
+ margin: auto;
+}
+.description button{
+ border:1px  solid #d2020d;
+ background:#F97300;
+ color:#000;
+}
+
+.row{
+ margin: 4em 0;
+ padding: 1em;
+ position: relative;
+}
+.row h1{
+ color:#b40009;
+ margin: 2em;
+}
+
+.row span{
+ display: block;
+ color: #888;
+ position: absolute;
+ left: 115px;
+}
+.row .desc{
+ padding: 2em;
+ border-left:4px solid #b40009;
+}
+.row .desc h3{
+ color: #b40009;
+}
+.row .desc p{
+ line-height:2;
+ color:#888;
+}
+.row .desc li{
+ line-height:2;
+ color:#888;
+}
+
+.stars{
+ margin: 4em 0;
+ position: relative;  
+}
+.stars h1{
+ color:#b40009;
+ margin: 2em; 
+}
+.stars .item{
+ position: relative;
+}
+.stars .des{
+ background: #b40009;
+ color: #fff;
+ text-align: center;
+ border-bottom-left-radius: 93%;
+ transition:.3s ease-in-out;
+}
+
+.blog{
+ margin: 4em 0;
+ position: relative; 
+}
+.blog h1{
+ color:#b40009;
+ margin: 1em; 
+}
+.blog .card{
+ box-shadow: 0 0 20px #ccc;
+}
+.blog .card img{
+ width: 100%;
+ height: 12em;
+}
+.blog .card-title{
+ color:#b40009;
+  
+}
+.blog .card-body{
+ padding: 1em;
+}
+
+.xxx{
+	max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.carousel h1{
+ color:#b40009;
+ margin: 1em;
+}
